@@ -1,0 +1,1 @@
+./create_cloud_init_vm.sh -f ubuntu-20.04-focal-server-cloudimg-amd64.img -c 8 -m 16384
